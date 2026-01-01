@@ -29,7 +29,7 @@ select,input{padding:6px;width:100%;margin-top:5px}
 </div>
 
 <script>
-const wa = "6281234567890"; // GANTI NOMOR WA KAMU
+const wa = "6282324207690"; // GANTI NOMOR WA KAMU
 const produk = [
  {nama:"Daster Mawar",harga:45000},
  {nama:"Daster Santai",harga:48000},
